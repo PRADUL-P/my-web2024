@@ -661,8 +661,7 @@ padding: 30px;
 
 /* ===-----------------------------------------------------------RESPONSIVE CSS(MOBILE DEVICES) -----------------=======---------------------------*/
 
-@media all and (max-width: 675px) and (min-width: 0px)
-{
+@media all and (max-width: 675px) and (min-width: 0px){
 
     .navigation-links ul li{
         font-size: 36px;
